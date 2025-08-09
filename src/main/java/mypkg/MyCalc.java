@@ -36,6 +36,7 @@ public class MyCalc {
 		System.out.println("Div is :"+calc.div(20, 10));
 		System.out.println("Mod is :"+calc.mod(20, 10));
 		calc.branch();
+		System.out.println("Github action Test");
 	}
 
 }
